@@ -1,0 +1,14 @@
+{
+  "name": "test-with-expect",
+  "version": "1.0.0",
+  "description": "Basic testing example",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tesing"
+  ],
+  "author": "Kemal Cholovich",
+  "license": "MIT"
+}
